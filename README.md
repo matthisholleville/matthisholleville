@@ -8,11 +8,11 @@
 
 ### It's great to have you here! &nbsp;
 
-As a Sr Cloud Engineer employed by [Agicap](https://agicap.com/), I take pleasure in resolving issues and automating tasks. I am motivated to work on projects that have a positive impact on the world and am always eager to acquire new knowledge and skills to further this goal. In my free time, you can find me doing CrossFit, which I absolutely love and find to be a great way to stay physically fit and mentally sharp.
+As Head of SRE employed by [Agicap](https://agicap.com/), I take pleasure in resolving issues and automating tasks. I am motivated to work on projects that have a positive impact on the world and am always eager to acquire new knowledge and skills to further this goal. In my free time, you can find me doing CrossFit, which I absolutely love and find to be a great way to stay physically fit and mentally sharp.
 
 Let's discuss personal matters:
 
-- 🔭 I'm a maintainer on [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) & developping more tools [here](https://github.com/matthisholleville)
+- 🔭 I'm a co-maintainer on [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) & developping more tools [here](https://github.com/matthisholleville)
 - 👨🏻‍💻 I love go, python, Kubernetes and more...
 - 📫 How to reach me: matthish29@gmail.com
 - 📝 Checkout my [Resume](https://github.com/matthisholleville/matthisholleville/blob/master/resume.pdf).
