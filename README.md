@@ -13,7 +13,7 @@ As Head of SRE employed by [Agicap](https://agicap.com/), I take pleasure in res
 Let's discuss personal matters:
 
 - 🔭 I'm a co-maintainer on [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) & developping more tools [here](https://github.com/matthisholleville)
-- 👨🏻‍💻 I love go, python, Kubernetes and more...
+- 👨🏻‍💻 I love go, python, Kubernetes, AI and more...
 - 📫 How to reach me: matthish29@gmail.com
 - 📝 Checkout my [Resume](https://github.com/matthisholleville/matthisholleville/blob/master/resume.pdf).
 
