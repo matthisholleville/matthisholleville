@@ -6,7 +6,7 @@
 
 
 
-### It's great to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=matthisholleville.matthisholleville&style=flat-square&color=0088cc)
+### It's great to have you here! &nbsp;
 
 As a Sr Cloud Engineer employed by [Agicap](https://agicap.com/), I take pleasure in resolving issues and automating tasks. I am motivated to work on projects that have a positive impact on the world and am always eager to acquire new knowledge and skills to further this goal. In my free time, you can find me doing CrossFit, which I absolutely love and find to be a great way to stay physically fit and mentally sharp.
 
